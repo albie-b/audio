@@ -1,0 +1,9 @@
+to run application:
+shotgun -p 8080
+
+running on:
+localhost:8080
+
+to run tests:
+ruby spec/setup_database.rb 
+rspec

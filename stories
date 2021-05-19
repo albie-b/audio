@@ -1,0 +1,27 @@
+user stories:
+
+As a user
+So I can keep track of important websites
+I need the website to show a list of bookmarks
+
+as a user
+So I can keep track of important websites
+I need to be able to add new bookmarks
+
+as a user
+so that i can update my bookmarks
+I need to be able to Delete bookmarks
+
+as a user
+so that incase a link changes or i make a mistake
+i need to be able to update bookmarks
+
+
+Comment on bookmarks
+Tag bookmarks into categories
+Filter bookmarks by tag
+Users are restricted to manage only their own bookmarks
+
+As a time-pressed user
+So that I can save a website
+I would like to add the site's address and title to bookmark manager
