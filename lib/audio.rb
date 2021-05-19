@@ -6,7 +6,7 @@ class Audio
         :access_key_id     => 'add key here',
         :secret_access_key => 'add key here'
     )
-    AWS::S3::Bucket.find(bucket).objects
+    AWS::S3::Bucket.find(BUCKET).objects
   end
 
 end
